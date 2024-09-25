@@ -31,7 +31,7 @@ To obtain the starter code for this assignment (this repo) on your local machine
 	A window should open automatically in your default browser. If it didn't, the terminal output should contain a URL you can use to open the notebook in a browser of your choice.
 
 
-5. When you are ready to start the assignment click on `hw2.ipynb` from the Jupyter notebook file explore window that opens. Edit the notebook and craft your solutions to the assignment. 
+5. When you are ready to start the assignment click on `hw3.ipynb` from the Jupyter notebook file explore window that opens. Edit the notebook and craft your solutions to the assignment. 
 
 # Submitting your work 
 
